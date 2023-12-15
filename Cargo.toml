@@ -1,5 +1,5 @@
 [package]
-name = "fibonacci"
+name = "graphics"
 version = "0.1.0"
 authors = ["Károly Török"]
 edition = "2018"
